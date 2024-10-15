@@ -1,0 +1,18 @@
+
+body {
+    background: #f0eff4 !important;
+}
+
+tbody > tr > td {
+    background: #f0eff4 !important;
+}
+
+thead > tr > th {
+    color: white !important;
+    background: #02a45b !important;
+}
+.form-input {
+    border-radius: 5px;
+    border: transparent;
+}
+
